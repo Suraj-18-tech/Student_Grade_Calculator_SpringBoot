@@ -15,5 +15,5 @@ Create a .env file
 Add - DB_USERNAME=
     - DB_PASSWORD=
 
-#Step 3: Start the Application
+# Step 3: Start the Application
 .\gradlew.bat clean bootRun
